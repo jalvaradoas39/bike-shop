@@ -49,7 +49,7 @@ header h1 a img.bike-icon {
 
 
 
-/* MAIN */
+/* index.php */
 #main {
 	/*background-color: purple;*/
 	width: 980px;
@@ -91,6 +91,29 @@ ul#menu li a:hover {
 
 
 
+/* bicycles.php */
+div#page {
+	background-color: red;
+	margin: 60px auto;
+}
+
+img.inset {
+	background-color: green;
+	float: left;
+	width: 150px;
+	margin-right: 20px;
+}
+
+div#page h2 {
+	background-color: blue;
+	line-height: 20px;
+}
+
+div#page p {
+	background-color: cyan;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
 
 /* FOOTER */
 footer {
@@ -112,6 +135,7 @@ footer {
 img#super-hero-image {
 	width: 100%;
 }
+
 
 
 
