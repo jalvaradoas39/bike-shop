@@ -114,6 +114,27 @@ div#page p {
 	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
+table#inventory {
+	background-color: yellow;
+	width: 980px;
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+table#inventory tr th {
+	background-color: magenta;
+	/*background: #0B61A5;*/
+	text-align: left;
+	color: #fff;
+}
+
+table#inventory tr td,
+table#inventory tr th {
+	border: 1px solid #000;
+	padding: 3px;
+}
+
+
 
 /* FOOTER */
 footer {

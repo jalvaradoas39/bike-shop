@@ -22,7 +22,31 @@
 		</div>
 
 		<table id="inventory">
-			
+			<tr>
+				<th>Brand</th>
+				<th>Model</th>
+				<th>Year</th>
+				<th>Category</th>
+				<th>Gender</th>
+				<th>Color</th>
+				<th>Weight</th>
+				<th>Condition</th>
+				<th>Price</th>
+			</tr>
+
+
+			<tr>
+				<td>1</td>
+				<td>2</td>
+				<td>3</td>
+				<td>4</td>
+				<td>5</td>
+				<td>6</td>
+				<td>7</td>
+				<td>8</td>
+				<td>9</td>
+			</tr>
+
 		</table>
 		
 	</div>
