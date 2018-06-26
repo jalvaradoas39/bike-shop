@@ -1,0 +1,120 @@
+html {
+	/*background-color: red;*/
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	/*background-color: green;*/
+	height: 100%;
+	width: 100%;
+	border: 0;
+}
+
+
+
+
+
+/* HEADER */
+header {
+	/*background-color: blue;*/
+	width: 980px;
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+	color: #ffffff;
+}
+
+header h1 {
+	/*background-color: cyan;*/
+	margin: 50px 0 0 0;
+	text-align: center;
+}
+
+header h1 a {
+	/*background-color: yellow;*/
+	text-decoration: none;
+	color: #000;
+	letter-spacing: 0.4em;
+}
+
+header h1 a img.bike-icon {
+	/*background-color: magenta;*/
+	display: inline-block;
+	width: 75px;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+/* MAIN */
+#main {
+	/*background-color: purple;*/
+	width: 980px;
+	height: 500px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+ul#menu {
+	/*background-color: pink;*/
+	overflow: hidden;
+	width: 485px;
+	margin: 100px auto;
+	padding: 0;
+	list-style: none;
+}
+
+ul#menu li {
+	/*background-color: gray;*/
+	float: left;
+	margin: 25px;
+}
+
+ul#menu li a {
+	/*background-color: lime;*/
+	display: block;
+	width: 150px;
+	padding: 25px 20px;
+	border: 1px solid #000;
+	text-align: center;
+	text-decoration: none;
+	color: #000;
+}
+
+ul#menu li a:hover {
+	background-color: #eee;
+}
+
+
+
+
+
+/* FOOTER */
+footer {
+	/*background-color: orange;*/
+	clear: both;
+	width: 980px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.expanding-wrapper {
+	position: absolute;
+	top: 400px;
+	left: 0;
+	width: 100%;
+	min-width: 980px;
+}
+
+img#super-hero-image {
+	width: 100%;
+}
+
+
+
+
+
+
